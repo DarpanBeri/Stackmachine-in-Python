@@ -1,15 +1,15 @@
 ## StackMachine in Python
 **Note:** The following commands are valid:
-    * push # -- Pushes the number onto the stack.
-    * pop -- Pops the top of the stack.
-    * add -- Pops two values oﬀ the stack, adds them pushes the result.
-    * sub -- Pops two, subtracts the second from the first, pushes result.
-    * mul -- Pops two, multiples, pushes result.
-    * div -- Pops two, divides the first by the second, pushes result.
-    * mod -- Pops two, remainder of first divided by second, pushes result.
-    * skip -- Pops two.
-    * save # -- Pops one, saves that value for future retrieval.
-    * get # -- Pops zero. Gets a previously saved value and pushes it on the stack.
+* push # -- Pushes the number onto the stack.
+* pop -- Pops the top of the stack.
+* add -- Pops two values oﬀ the stack, adds them pushes the result.
+* sub -- Pops two, subtracts the second from the first, pushes result.
+* mul -- Pops two, multiples, pushes result.
+* div -- Pops two, divides the first by the second, pushes result.
+* mod -- Pops two, remainder of first divided by second, pushes result.
+* skip -- Pops two.
+* save # -- Pops one, saves that value for future retrieval.
+* get # -- Pops zero. Gets a previously saved value and pushes it on the stack.
 
 #### Files included:
     Prog4_1.py:
