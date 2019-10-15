@@ -4,7 +4,6 @@ from prog4_2 import StackMachine
 import sys
 
 def main():
-    print("Assignment #4-3, Darpan Beri, darpanberi.99@gmail.com")
 
     _procLines =  []
 
